@@ -79,11 +79,19 @@ TE Connectivity / AMP 520315-8 style 8-pin through-hole connector.
 
 ---
 
+### [DO-35_P12.70-D0.53](./DO-35_P12.70-D0.53/)
+
+[![DO-35_P12.70-D0.53](./DO-35_P12.70-D0.53/DO-35_P12.70-D0.53.png)](./DO-35_P12.70-D0.53/)
+
+Generic DO-35 axial diode model with 12.70 mm PCB pitch and Ø0.53 mm leads.
+
+---
+
 ### [DO-35_P12.70_BA157](./DO-35_P12.70_BA157/)
 
 [![DO-35_P12.70_BA157](./DO-35_P12.70_BA157/DO-35_P12.70_BA157.png)](./DO-35_P12.70_BA157/)
 
-DO-35 axial diode model with 12.70 mm PCB pitch.
+DO-35 axial diode model with 12.70 mm PCB pitch, 0.60 mm leads.
 
 ---
 
