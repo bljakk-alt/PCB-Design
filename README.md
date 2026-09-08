@@ -55,6 +55,14 @@ Axial through-hole capacitor model with Ø6.3 mm body, 12.0 mm body length and 2
 
 ---
 
+### [CAP_AXIAL_THT_L5.1-D3.1-P12.70](./CAP_AXIAL_THT_L5.1-D3.1-P12.70/)
+
+[![CAP_AXIAL_THT_L5.1-D3.1-P12.70](./CAP_AXIAL_THT_L5.1-D3.1-P12.70/CAP_AXIAL_THT_L5.1-D3.1-P12.70.png)](./CAP_AXIAL_THT_L5.1-D3.1-P12.70/)
+
+Axial through-hole ceramic capacitor model with 5.1 mm body length, Ø3.1 mm body diameter and 12.70 mm PCB pitch.
+
+---
+
 ### [COIL_L1](./COIL_L1/)
 
 [![COIL_L1](./COIL_L1/COIL_L1.png)](./COIL_L1/)
