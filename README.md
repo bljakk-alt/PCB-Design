@@ -87,6 +87,46 @@ TE Connectivity / AMP 520315-8 style 8-pin through-hole connector.
 
 ---
 
+### [DIP14-6.40x19.25-RS7.62-P2.54](./DIP14-6.40x19.25-RS7.62-P2.54/)
+
+[![DIP14-6.40x19.25-RS7.62-P2.54](./DIP14-6.40x19.25-RS7.62-P2.54/DIP14-6.40x19.25-RS7.62-P2.54.png)](./DIP14-6.40x19.25-RS7.62-P2.54/)
+
+Generic 14-pin through-hole DIP package with 6.40 × 19.25 mm body, 7.62 mm row spacing and 2.54 mm pin pitch.
+
+---
+
+### [DIP16-6.40x19.25-RS7.62-P2.54](./DIP16-6.40x19.25-RS7.62-P2.54/)
+
+[![DIP16-6.40x19.25-RS7.62-P2.54](./DIP16-6.40x19.25-RS7.62-P2.54/DIP16-6.40x19.25-RS7.62-P2.54.png)](./DIP16-6.40x19.25-RS7.62-P2.54/)
+
+Generic 16-pin through-hole DIP package with 6.40 × 19.25 mm body, 7.62 mm row spacing and 2.54 mm pin pitch.
+
+---
+
+### [DIP18-6.40X22.86-RS7.62-P2.54](./DIP18-6.40X22.86-RS7.62-P2.54/)
+
+[![DIP18-6.40X22.86-RS7.62-P2.54](./DIP18-6.40X22.86-RS7.62-P2.54/DIP18-6.40X22.86-RS7.62-P2.54.png)](./DIP18-6.40X22.86-RS7.62-P2.54/)
+
+Generic 18-pin through-hole DIP package with 6.40 × 22.86 mm body, 7.62 mm row spacing and 2.54 mm pin pitch.
+
+---
+
+### [DIP28W-14.10X36.75-RS15.24-P2.54](./DIP28W-14.10X36.75-RS15.24-P2.54/)
+
+[![DIP28W-14.10X36.75-RS15.24-P2.54](./DIP28W-14.10X36.75-RS15.24-P2.54/DIP28W-14.10X36.75-RS15.24-P2.54.png)](./DIP28W-14.10X36.75-RS15.24-P2.54/)
+
+Generic wide 28-pin through-hole DIP package with 14.10 × 36.75 mm body, 15.24 mm row spacing and 2.54 mm pin pitch.
+
+---
+
+### [DIP40-14.10X52.00-RS15.24-P2.54](./DIP40-14.10X52.00-RS15.24-P2.54/)
+
+[![DIP40-14.10X52.00-RS15.24-P2.54](./DIP40-14.10X52.00-RS15.24-P2.54/DIP40-14.10X52.00-RS15.24-P2.54.png)](./DIP40-14.10X52.00-RS15.24-P2.54/)
+
+Generic wide 40-pin through-hole DIP package with 14.10 × 52.00 mm body, 15.24 mm row spacing and 2.54 mm pin pitch.
+
+---
+
 ### [DO-35_P12.70-D0.53](./DO-35_P12.70-D0.53/)
 
 [![DO-35_P12.70-D0.53](./DO-35_P12.70-D0.53/DO-35_P12.70-D0.53.png)](./DO-35_P12.70-D0.53/)
